@@ -9,6 +9,6 @@ Designed to help users **add, delete, and manage daily tasks** in your browser.
 - Delete individual tasks
 - Clear all tasks
 - No external libraries or frameworks used
-- 
+  
 ## Built With
 **HTML** **CSS** & **JS**
